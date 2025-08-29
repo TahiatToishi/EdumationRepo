@@ -2,6 +2,8 @@ wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\logo.png
 wwwroot\images\profiles\96f07696-a733-4b19-90af-839e378d8262-638832854773011183.png
+wwwroot\images\profiles\b07b2920-7200-48b9-97e7-6b617862b7ed-638917507867709643.png
+wwwroot\images\profiles\b07b2920-7200-48b9-97e7-6b617862b7ed-638917510655759674.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

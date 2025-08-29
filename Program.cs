@@ -107,7 +107,20 @@ using (var scope = app.Services.CreateScope())
                 await userManager.AddToRoleAsync(adminUser, "Admin");
                 logger.LogInformation("Admin user created and assigned to Admin role.");
 
-                
+                // Seed admin profile if not exists
+                var adminProfile = await context.Profiles.FirstOrDefaultAsync(p => p.UserId == adminUser.Id);
+                if (adminProfile == null)
+                {
+                    adminProfile = new Profile
+                    {
+                        UserId = adminUser.Id,
+                        FirstName = "Admin",
+                        LastName = "User",
+                    };
+                    context.Profiles.Add(adminProfile);
+                    await context.SaveChangesAsync();
+                    logger.LogInformation("Admin profile seeded.");
+                }
             }
             else
             {

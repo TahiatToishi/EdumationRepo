@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wTBvW+5bE1+JRgHhrKCHP1RJEsMqGnFZh4Kzu8p+4Vc=",
+  "Hash": "By2vgpSOapZRzwYKPsa++D4VNjooQSDNbudOi5eXQNQ=",
   "Source": "EduMation",
   "BasePath": "_content/EduMation",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qq5d7olp0g",
-      "Integrity": "rkpzSeph/vXvk3VoXZ6r6r4CvG0vSP12N8KPajk8zCQ=",
+      "Fingerprint": "ae3dhnvlha",
+      "Integrity": "cu/I07Bx6q5SdIU4pdDjBuAmqCh946gm9Y7JLFD/oAc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -141,6 +141,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\profiles\\96f07696-a733-4b19-90af-839e378d8262-638832854773011183.png"
+    },
+    {
+      "Identity": "D:\\470\\Toishi\\wwwroot\\images\\profiles\\b07b2920-7200-48b9-97e7-6b617862b7ed-638917507867709643.png",
+      "SourceId": "EduMation",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\470\\Toishi\\wwwroot\\",
+      "BasePath": "_content/EduMation",
+      "RelativePath": "images/profiles/b07b2920-7200-48b9-97e7-6b617862b7ed-638917507867709643#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "32babsm6r1",
+      "Integrity": "exErTligTo48Exx0RGBh8IYAjz2wz+xS3c/D506j2to=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\profiles\\b07b2920-7200-48b9-97e7-6b617862b7ed-638917507867709643.png"
+    },
+    {
+      "Identity": "D:\\470\\Toishi\\wwwroot\\images\\profiles\\b07b2920-7200-48b9-97e7-6b617862b7ed-638917510655759674.png",
+      "SourceId": "EduMation",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\470\\Toishi\\wwwroot\\",
+      "BasePath": "_content/EduMation",
+      "RelativePath": "images/profiles/b07b2920-7200-48b9-97e7-6b617862b7ed-638917510655759674#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "32babsm6r1",
+      "Integrity": "exErTligTo48Exx0RGBh8IYAjz2wz+xS3c/D506j2to=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\profiles\\b07b2920-7200-48b9-97e7-6b617862b7ed-638917510655759674.png"
     },
     {
       "Identity": "D:\\470\\Toishi\\wwwroot\\js\\site.js",
@@ -1447,6 +1489,51 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/site.ae3dhnvlha.css",
+      "AssetFile": "D:\\470\\Toishi\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cu/I07Bx6q5SdIU4pdDjBuAmqCh946gm9Y7JLFD/oAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 21:55:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ae3dhnvlha"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cu/I07Bx6q5SdIU4pdDjBuAmqCh946gm9Y7JLFD/oAc="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "D:\\470\\Toishi\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1457,7 +1544,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3503"
+          "Value": "3480"
         },
         {
           "Name": "Content-Type",
@@ -1465,11 +1552,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rkpzSeph/vXvk3VoXZ6r6r4CvG0vSP12N8KPajk8zCQ=\""
+          "Value": "\"cu/I07Bx6q5SdIU4pdDjBuAmqCh946gm9Y7JLFD/oAc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 22:21:52 GMT"
+          "Value": "Fri, 29 Aug 2025 21:55:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1479,52 +1566,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rkpzSeph/vXvk3VoXZ6r6r4CvG0vSP12N8KPajk8zCQ="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.qq5d7olp0g.css",
-      "AssetFile": "D:\\470\\Toishi\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3503"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rkpzSeph/vXvk3VoXZ6r6r4CvG0vSP12N8KPajk8zCQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 22:21:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qq5d7olp0g"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rkpzSeph/vXvk3VoXZ6r6r4CvG0vSP12N8KPajk8zCQ="
+          "Value": "sha256-cu/I07Bx6q5SdIU4pdDjBuAmqCh946gm9Y7JLFD/oAc="
         }
       ]
     },
@@ -1551,7 +1593,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 04 Aug 2025 15:27:45 GMT"
+          "Value": "Mon, 19 May 2025 20:45:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1588,7 +1630,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 04 Aug 2025 15:27:45 GMT"
+          "Value": "Mon, 19 May 2025 20:45:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1633,7 +1675,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 04 Aug 2025 15:27:45 GMT"
+          "Value": "Mon, 19 May 2025 20:45:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1678,7 +1720,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 04 Aug 2025 15:27:45 GMT"
+          "Value": "Mon, 19 May 2025 20:45:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1935,6 +1977,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-R1QL7BM4hHC46r8oljEV/0KrEG3iISI0XELQFp5OlR8="
+        }
+      ]
+    },
+    {
+      "Route": "images/profiles/b07b2920-7200-48b9-97e7-6b617862b7ed-638917507867709643.32babsm6r1.png",
+      "AssetFile": "D:\\470\\Toishi\\wwwroot\\images\\profiles\\b07b2920-7200-48b9-97e7-6b617862b7ed-638917507867709643.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"exErTligTo48Exx0RGBh8IYAjz2wz+xS3c/D506j2to=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Aug 2025 14:33:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "32babsm6r1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/profiles/b07b2920-7200-48b9-97e7-6b617862b7ed-638917507867709643.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-exErTligTo48Exx0RGBh8IYAjz2wz+xS3c/D506j2to="
+        }
+      ]
+    },
+    {
+      "Route": "images/profiles/b07b2920-7200-48b9-97e7-6b617862b7ed-638917507867709643.png",
+      "AssetFile": "D:\\470\\Toishi\\wwwroot\\images\\profiles\\b07b2920-7200-48b9-97e7-6b617862b7ed-638917507867709643.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"exErTligTo48Exx0RGBh8IYAjz2wz+xS3c/D506j2to=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Aug 2025 14:33:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-exErTligTo48Exx0RGBh8IYAjz2wz+xS3c/D506j2to="
+        }
+      ]
+    },
+    {
+      "Route": "images/profiles/b07b2920-7200-48b9-97e7-6b617862b7ed-638917510655759674.32babsm6r1.png",
+      "AssetFile": "D:\\470\\Toishi\\wwwroot\\images\\profiles\\b07b2920-7200-48b9-97e7-6b617862b7ed-638917510655759674.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"exErTligTo48Exx0RGBh8IYAjz2wz+xS3c/D506j2to=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Aug 2025 14:37:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "32babsm6r1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/profiles/b07b2920-7200-48b9-97e7-6b617862b7ed-638917510655759674.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-exErTligTo48Exx0RGBh8IYAjz2wz+xS3c/D506j2to="
+        }
+      ]
+    },
+    {
+      "Route": "images/profiles/b07b2920-7200-48b9-97e7-6b617862b7ed-638917510655759674.png",
+      "AssetFile": "D:\\470\\Toishi\\wwwroot\\images\\profiles\\b07b2920-7200-48b9-97e7-6b617862b7ed-638917510655759674.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"exErTligTo48Exx0RGBh8IYAjz2wz+xS3c/D506j2to=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Aug 2025 14:37:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-exErTligTo48Exx0RGBh8IYAjz2wz+xS3c/D506j2to="
         }
       ]
     },

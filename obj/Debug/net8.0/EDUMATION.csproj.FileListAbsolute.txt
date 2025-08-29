@@ -289,8 +289,8 @@ D:\EDUMATION\obj\Debug\net8.0\EduMation.genruntimeconfig.cache
 D:\EDUMATION\obj\Debug\net8.0\ref\EduMation.dll
 D:\470\Toishi\bin\Debug\net8.0\appsettings.Development.json
 D:\470\Toishi\bin\Debug\net8.0\appsettings.json
-D:\470\Toishi\bin\Debug\net8.0\EduMation.staticwebassets.endpoints.json
 D:\470\Toishi\bin\Debug\net8.0\EduMation.staticwebassets.runtime.json
+D:\470\Toishi\bin\Debug\net8.0\EduMation.staticwebassets.endpoints.json
 D:\470\Toishi\bin\Debug\net8.0\EduMation.exe
 D:\470\Toishi\bin\Debug\net8.0\EduMation.deps.json
 D:\470\Toishi\bin\Debug\net8.0\EduMation.runtimeconfig.json
@@ -412,6 +412,7 @@ D:\470\Toishi\obj\Debug\net8.0\EduMation.csproj.CoreCompileInputs.cache
 D:\470\Toishi\obj\Debug\net8.0\EduMation.MvcApplicationPartsAssemblyInfo.cache
 D:\470\Toishi\obj\Debug\net8.0\EduMation.RazorAssemblyInfo.cache
 D:\470\Toishi\obj\Debug\net8.0\EduMation.RazorAssemblyInfo.cs
+D:\470\Toishi\obj\Debug\net8.0\EduMation.sourcelink.json
 D:\470\Toishi\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\470\Toishi\obj\Debug\net8.0\scopedcss\bundle\EduMation.styles.css
 D:\470\Toishi\obj\Debug\net8.0\scopedcss\projectbundle\EduMation.bundle.scp.css

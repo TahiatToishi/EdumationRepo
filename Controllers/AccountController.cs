@@ -98,8 +98,20 @@ namespace EduMation.Controllers
                 user.EmailConfirmed = true;
                 await _userManager.UpdateAsync(user);
 
-                
+                var subscription = new Subscription
+                {
+                    UserId = user.Id,
+                    Plan = "Basic",
+                    Price = 0.00m,
+                    User = user,
+                    StartDate = DateTime.Now,
+                    IsActive = true,
+                    MaxVideos = 5, // Changed from VideoLimit to MaxVideos
+                    TotalWatched = 0
+                };
 
+                _context.Subscriptions.Add(subscription);
+                await _context.SaveChangesAsync();
 
                 await _signInManager.SignInAsync(user, isPersistent: false);
                 return RedirectToAction("Index", "Home");

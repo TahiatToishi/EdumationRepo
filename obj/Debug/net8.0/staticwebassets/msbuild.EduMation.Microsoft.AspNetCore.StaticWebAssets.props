@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qq5d7olp0g</Fingerprint>
-      <Integrity>rkpzSeph/vXvk3VoXZ6r6r4CvG0vSP12N8KPajk8zCQ=</Integrity>
+      <Fingerprint>ae3dhnvlha</Fingerprint>
+      <Integrity>cu/I07Bx6q5SdIU4pdDjBuAmqCh946gm9Y7JLFD/oAc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -89,6 +89,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\profiles\96f07696-a733-4b19-90af-839e378d8262-638832854773011183.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\profiles\b07b2920-7200-48b9-97e7-6b617862b7ed-638917507867709643.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>EduMation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EduMation</BasePath>
+      <RelativePath>images/profiles/b07b2920-7200-48b9-97e7-6b617862b7ed-638917507867709643.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>32babsm6r1</Fingerprint>
+      <Integrity>exErTligTo48Exx0RGBh8IYAjz2wz+xS3c/D506j2to=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\profiles\b07b2920-7200-48b9-97e7-6b617862b7ed-638917507867709643.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\profiles\b07b2920-7200-48b9-97e7-6b617862b7ed-638917510655759674.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>EduMation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EduMation</BasePath>
+      <RelativePath>images/profiles/b07b2920-7200-48b9-97e7-6b617862b7ed-638917510655759674.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>32babsm6r1</Fingerprint>
+      <Integrity>exErTligTo48Exx0RGBh8IYAjz2wz+xS3c/D506j2to=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\profiles\b07b2920-7200-48b9-97e7-6b617862b7ed-638917510655759674.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))">
       <SourceType>Package</SourceType>

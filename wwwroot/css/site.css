@@ -49,13 +49,14 @@ a {
     margin-left: -200px; /* Pull nav items closer to the logo */
 }
 
-    .navbar-brand img {
-        width: 180px; /* Logo width */
-        height: auto; /* Height scales proportionally */
-        object-fit: contain; /* Ensure logo fits without distortion */
-        margin-top: -65px;
-        margin-bottom:-65px; /* Reduced from 1px to bring tagline closer to logo */
-    }
+.navbar-brand img {
+    width: 180px; /* Logo width */
+    height: auto; /* Height scales proportionally */
+    object-fit: contain; /* Ensure logo fits without distortion */
+    margin-top: -65px;
+    margin-bottom: -65px; /* Reduced from 1px to bring tagline closer to logo */
+  
+}
 
     .navbar-brand span {
         white-space: nowrap; /* Prevent tagline from wrapping */
